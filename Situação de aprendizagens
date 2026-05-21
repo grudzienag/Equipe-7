@@ -1,4 +1,4 @@
-Situação hipotética: Um PC com orçamento de 8.000 para um Centro de Treinamento (CT) de algum jogo de alta perfomance (Valor sobrante R$33,15)
+Situação hipotética: Um PC com orçamento de 8.000 para um Centro de Treinamento (CT) de algum jogo de alta perfomance (Valor sobrante R$11,57)
 
 Componentes internos:
 Placa de vídeo -> Placa de Vídeo Husky Alpha GTX 1650 (1.579,90$) [Kabum]
@@ -21,7 +21,7 @@ Gabinete -> Gabinete Gamer Aquário Tgt Legion (317,63$)  [Mercado Livre]
 
 
 Componentes externos:
-Mouse ->  Titorion Mouse Gamer Óptico, 7200DPI. (49,00$)
+Mouse ->  Mouse Gamer Redragon Naga 10000DPI. (70,58$)
 
 Teclado -> Teclado Mecânico Gamer Redragon Dragonborn, RGB Preto, Switch Brown, 60%, ABNT2 - K630RGB-1 (188,0$)
 
@@ -33,5 +33,22 @@ Cabos de dados -> Cabo Usb C 3.1 Gen2 10gbps 100w Qc3.0 Ugreen (149,80$) [Web To
 
 Modem -> Modem Roteador Wireless N Vdsl2 Usb 300mbps Td-w9970 (159$) [Mercado Livre]
 
+Relatório:
 
-PSC:
+Software//Driver: Irá ser usado Linux por ter mais estabilidade em quadros por segundo (FPS), problema relatado na situação hipotética. O driver sera da NVDIA devido a placa de vídeo ser da mesma empresa e aprensentar
+uma melhor compatibilidade.
+Sofware: Windows 10
+Driver: Linux x64 (AMD64/EM64T) Display Driver *Versão 595.71.05
+
+Bottleneck: Todos os componentes apresentados são da mesma geração tecnológica, isso é, além de compatíveis todas tem uma potência similar e a chances de um bottleneck não são altas. Pode ser teorizado que o primeiro
+componente a "pifar" ser o processador, poís é uma peça comum de "Overheating".
+
+Arquitetura de hardware: O processador em sí possui L2 e L3, comum de fabricação da Intel, esse tipo de configuração é melhor para rodar jogos pois encurtam o caminho do processador até a memória. O processador em sí
+é avantagado aos demais de núcleo bruto, apesar de ter uma 'vida útil' mais curta (1-5 anos), o fato de ter múltiplos núcleos ajuda a carregar múltiplos modelos 3d/2d mais fácil, diferente de um núcleo bruto (que, apesar de
+ter uma 'vida útil' mais longa) que se especifíca em modelos 3d (como no aplicativo blender).|A placa de vídeo, apesar de não ter suporte para tecnologias como ray-tracing ou anti-lag, foi feita para alta performance e vai
+assumir seu cargo com essa alta performance, não só compativel com Linux e com um driver atualizado, mais tambem feita para suportar jogos que exigam um hardware 'forte'.|A placa mãe é um modelo specífico para gaming, sendo
+compatível com o processador (LGA1700/B760M), a RAM (Ddr4), o SSD (M.2), e gabinete (Matx). Com suporte para a potência dos outros hardwares.|A RAM pode não ser a melhor no mundo, mais com preços elevador devido a Centros de Data de IA,
+simples 64GB por 1.600$ é o absoluto máximo disposto.|A fonte de alimentação é sufiça para alimentar energia a todos os componentes necessários, tambem sendo compátivel com eles.|
+
+Fluxo de dados: A memória percorre do SSD para a RAM, onde fica armazenada até que o L3/L2/Processador a utilize, transferindo para a Placa de vídeo para ser renderizado em HDMI.
+Custos:
