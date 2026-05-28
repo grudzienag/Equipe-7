@@ -1,5 +1,7 @@
 Situação hipotética: Um PC com orçamento de 8.000 para um Centro de Treinamento (CT) de algum jogo de alta perfomance (Valor sobrante R$11,57)
 
+
+-----------------------------------------------------------------------------------------------------------------------------
 Componentes internos:
 Placa de vídeo -> Placa de Vídeo Husky Alpha GTX 1650 (1.579,90$) [Kabum]
 
@@ -33,6 +35,8 @@ Cabos de dados -> Cabo Usb C 3.1 Gen2 10gbps 100w Qc3.0 Ugreen (149,80$) [Web To
 
 Modem -> Modem Roteador Wireless N Vdsl2 Usb 300mbps Td-w9970 (159$) [Mercado Livre]
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 Relatório:
 
 Software//Driver: Irá ser usado Linux por ter mais estabilidade em quadros por segundo (FPS), problema relatado na situação hipotética. O driver sera da NVDIA devido a placa de vídeo ser da mesma empresa e aprensentar
@@ -51,4 +55,5 @@ compatível com o processador (LGA1700/B760M), a RAM (Ddr4), o SSD (M.2), e gabi
 simples 64GB por 1.600$ é o absoluto máximo disposto.|A fonte de alimentação é sufiça para alimentar energia a todos os componentes necessários, tambem sendo compátivel com eles.|
 
 Fluxo de dados: A memória percorre do SSD para a RAM, onde fica armazenada até que o L3/L2/Processador a utilize, transferindo para a Placa de vídeo para ser renderizado em HDMI.
-Custos:
+Custos: O motivo dos componentes internos serem tão custosos em relação aos externos é devido ao fato de que os jogos a serem testados/jogados são pesados demais, sendo assim, foi evidente que o custo para rodar esses
+jogos foram maiores.
